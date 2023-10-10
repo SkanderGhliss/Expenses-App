@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #041e53;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -26,7 +26,25 @@
 
 .App-link {
   color: #61dafb;
-}
+  font-family: "Yellowtail", sans-serif;
+  font-size: 60px;
+  letter-spacing: 5.6px;
+  word-spacing: 3.2px;
+  color: #f8f8f8;
+  font-weight: 400;
+  text-decoration: none solid rgb(68, 68, 68);
+  color: #FFFFFF;
+  color: #fff;
+  color: #fff;
+  text-shadow:
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px #bc13fe,
+    0 0 82px #bc13fe,
+    0 0 92px #bc13fe,
+    0 0 102px #bc13fe,
+    0 0 150px #bc13fe;}
 
 @keyframes App-logo-spin {
   from {
